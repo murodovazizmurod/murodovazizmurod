@@ -10,10 +10,10 @@
 <details>
 	<summary>Back-end</summary>
 	<ul>
-  <li>PHP, Node.js, ExpressJS, Python(in progress);</li>
-  <li>MySQL, MongoDB(in progress);</li>
-  <li>CMS: Wordpress, vBulletin, xenForo;</li>
-  <li>Git, bash, Sourcetree.</li>
+  <li>Python (Django, Flask);</li>
+  <li>MySQL, PostgreSQL;</li>
+  <li>CMS: Wordpress;</li>
+  <li>Git, Bash, Linux.</li>
  </ul>
 </details>
 
