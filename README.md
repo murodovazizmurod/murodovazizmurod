@@ -7,14 +7,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murodovazizmurod@allit.uz)](mailto:murodovazizmurod@allit.uz)
 
 #### Tech skills
-<details>
-	<summary>Back-end</summary>
-	<ul>
+
+<ul>
   <li>Python (Django, Flask);</li>
   <li>MySQL, PostgreSQL;</li>
   <li>CMS: Wordpress;</li>
   <li>Git, Bash, Linux.</li>
  </ul>
-</details>
 
 <img align="left" alt="Michael Zaletskyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=murodovazizmurod&show_icons=true&hide_border=true&count_private=true" />
