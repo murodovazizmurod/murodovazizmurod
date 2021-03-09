@@ -10,7 +10,7 @@
 
 <ul>
   <li>Python (Django, Flask);</li>
-  <li>MySQL, PostgreSQL;</li>
+  <li>MySQL, PostgreSQL, SQLite;</li>
   <li>CMS: Wordpress;</li>
   <li>Git, Bash, Linux.</li>
  </ul>
