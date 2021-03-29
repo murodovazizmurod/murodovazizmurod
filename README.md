@@ -17,4 +17,4 @@
 
 <img align="center" alt="Murodov Azizmurod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=murodovazizmurod&show_icons=true&hide_border=true&count_private=true&theme=react" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murodovazizmurod&" alt="Murodov Azizmurod" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murodovazizmurod&theme=react" alt="Murodov Azizmurod" />
