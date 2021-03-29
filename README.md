@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/murodovazizmurod/)](https://www.instagram.com/murodovazizmurod/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murodovazizmurod@allit.uz)](mailto:murodovazizmurod@gmail.com)
 
+<p style="text-align: center;">
 #### Tech skills
 
 <ul>
@@ -18,3 +19,4 @@
 <img align="center" alt="Murodov Azizmurod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=murodovazizmurod&show_icons=true&hide_border=true&count_private=true&theme=react" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murodovazizmurod&theme=react" alt="Murodov Azizmurod" />
+</p>
