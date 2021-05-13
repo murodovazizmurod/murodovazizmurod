@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murodovazizmurod@allit.uz)](mailto:murodovazizmurod@gmail.com)
 
 <p style="text-align: center;">
-#### Tech skills
+Tech skills
 
 <ul>
   <li><b>Python (Django, Flask);</b></li>
