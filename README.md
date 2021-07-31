@@ -8,7 +8,6 @@
 
 <hr>
 
-My Website: https://murodovazizmurod.github.io/
 
 <p style="text-align: center;">
 Tech skills
