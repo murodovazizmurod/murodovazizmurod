@@ -6,6 +6,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/murodovazizmurod/)](https://www.instagram.com/murodovazizmurod/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murodovazizmurod@allit.uz)](mailto:murodovazizmurod@gmail.com)
 
+<hr>
+
+My Website: https://murodovazizmurod.github.io/
+
 <p style="text-align: center;">
 Tech skills
 
