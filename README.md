@@ -5,6 +5,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/murodov_azizmurod)](https://t.me/murodov_azizmurod)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/murodovazizmurod/)](https://www.instagram.com/murodovazizmurod/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murodovazizmurod@allit.uz)](mailto:murodovazizmurod@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=murodovazizmurod)
+
 <br>
 <br>
 [![Working on](https://img.shields.io/badge/working%20on-ORMX-lightblue?style=for-the-badge)](https://github.com/murodovazizmurod/ormx)
