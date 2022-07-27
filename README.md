@@ -10,12 +10,6 @@
 <br>
 <br>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=murodovazizmurod&color=55acb7&style=for-the-badge)
-
-
-[![Working on](https://img.shields.io/badge/working%20on-ORMX-lightblue?style=for-the-badge)](https://github.com/murodovazizmurod/ormx)
-<hr>
-
 
 <p style="text-align: center;">
 Tech skills
