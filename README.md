@@ -15,10 +15,9 @@
 Tech skills
 
 <ul>
-  <li><b>Python (Django, Flask);</b></li>
+  <li><b>Python (Django, Flask, a bit FastAPI), PHP(it is what it is), JS</b></li>
   <li><b>MySQL, PostgreSQL, SQLite;</b></li>
-  <li><b>CMS: Wordpress;</b></li>
-  <li><b>Git, Bash, Linux.</b></li>
+  <li><b>Git, Bash, nginx, Apache</b></li>
  </ul>
 
 <img align="center" alt="Murodov Azizmurod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=murodovazizmurod&show_icons=true&hide_border=true&count_private=true" />
